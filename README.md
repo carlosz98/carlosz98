@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hey! I'm Carlos, a FullStack Developer but I want to specialize in Game Programming. I'm currently working on a few projects regarding Videogame programming in Unity, UE5 and Android Development in Kotlin and Android Studio as well for college. I'm looking for an Internship in Software Development, I'm open for any of the roles I have experience in. I have Experience in Agile Development.<br>
+Hey! I'm Carlos, a FullStack Developer but I want to specialize in Game Programming. I'm currently working on a few projects regarding Videogame programming in Unity, UE5 and Android Development in Kotlin and Android Studio as well for college. I'm looking for an Internship in Software Development, I'm open for any of the roles I have experience in. I have Experience in Agile Development. I have a thing for retro technology, that's why some of my projects are revolving around that look. Also, I'm currently working on my own game in Unreal Engine 5 called Warm Rain of Summer, I have completed the whole game documentation, with the help of Epic & Unreal Engine 5 course.<br>
 <br>🔭 Undergrad of Programming and Software Development.<br>
 👯 BackEnd - C++, C#, Java, SQL<br>
 🤝 FrontEnd - HTML, CSS, JS, Framer<br>
