@@ -1,8 +1,11 @@
 ## 💫 About Me:<br>🔭 Undergrad of Programming and Software Development.<br>
 👯 Constantly working on projects of Front-End and Back-End (Preferably of course)<br>
 🤝 Also, I'm working on Game Development projects in both Unity and UE5.<br>
-🌱 I’m currently learning IOS and Android Development.<br>
-💬 The experience of learning UNIX/LINUX is very interesting, currently working towards a Certification for it.<br>
+🌱 Currently Working in IOS and Android Development apps..<br>
+🌱 Currently Working in IOS and Android Development apps..<br>
+💬 The experience of learning UNIX/LINUX is very interesting.<br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y11J9MTA)
 
 
 # 💻 Tech Stack:
