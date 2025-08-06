@@ -2,8 +2,9 @@
 👯 Constantly working on projects of Front-End and Back-End (Preferably of course)<br>
 🤝 Also, I'm working on Game Development projects in both Unity and UE5.<br>
 🌱 Currently Working in IOS and Android Development apps..<br>
-🌱 Currently Working in IOS and Android Development apps..<br>
+💫 Looking for Internship<br>
 💬 The experience of learning UNIX/LINUX is very interesting.<br>
+💻 Also, have experience with Google Cloud Platform and working towards a Certificate by Google.<br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y11J9MTA)
 
