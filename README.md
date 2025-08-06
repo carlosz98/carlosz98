@@ -1,10 +1,11 @@
 ## 💫 About Me:<br>🔭 Undergrad of Programming and Software Development.<br>
-👯 Constantly working on projects of Front-End and Back-End (Preferably of course)<br>
-🤝 Also, I'm working on Game Development projects in both Unity and UE5.<br>
-🌱 Currently Working in IOS and Android Development apps..<br>
-💫 Looking for Internship<br>
-💬 The experience of learning UNIX/LINUX is very interesting.<br>
-💻 Also, have experience with Google Cloud Platform and working towards a Certificate by Google.<br>
+👯 BackEnd - C++, C#, Java, SQL<br>
+🤝 FrontEnd - HTML, CSS, JS, Framer<br>
+🌱 Android Development - Kotlin & Android Studio<br>
+💫 IOS Development - SwiftUI & Xcode<br>
+💬 Game Development - Unreal Engine 5 & Unity<br>
+💻 Cloud Services - Google Cloud Platform<br>
+📊 OS - Linux & Unix
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y11J9MTA)
 
